@@ -51,7 +51,7 @@ export default class App extends React.Component {
     });
   };
 
-  // filters out todos that are completed, effectively deleting them
+  // delete completed tasks form the list
   handleClearCompleted = () => {
     this.setState({
       todos: this.state.todos.filter(todo => !todo.completed)
