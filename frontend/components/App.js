@@ -64,7 +64,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        <h1> Peace's Todo App</h1> 
+        <h1> Peacemaker's Todo App</h1> 
         <Form
           inputText={this.state.inputText}  
           handleInput={this.handleInput}  
