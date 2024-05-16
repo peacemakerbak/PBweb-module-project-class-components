@@ -36,7 +36,7 @@ In this project you will build an application that allows for todos to be added,
 
 ## Instructions
 
-### Task 1: Project Set Up
+### Task 1: Project Set Up // done
 
 - Fork, clone, and `npm install`.
 - Launch the project on a development server executing `npm run dev`.
